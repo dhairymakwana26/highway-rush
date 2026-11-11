@@ -8,7 +8,6 @@ Experience high-speed highway weaving across iconic Indian expressways and mount
 
 ## 🎮 Play Live
 👉 **[Click Here to Play in Your Browser](https://dhairymakwana26.github.io/highway-rush/)**  
-*(Replace `yourusername` with your actual GitHub username after enabling GitHub Pages)*
 
 ---
 
